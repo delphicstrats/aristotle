@@ -34,5 +34,23 @@
     "dateIdentified": "2026-03-11",
     "status": "Confirmed",
     "severity": 7
+  },
+  {
+    "caseId": "SCI-2026-005",
+    "organization": "Paramount Global / Skydance Media",
+    "topic": "Editorial independence pledges vs CBS News operational changes under Trump-aligned ownership",
+    "patterns": ["1.1", "1.2"],
+    "dateIdentified": "2026-03-13",
+    "status": "Confirmed",
+    "severity": 12
+  },
+  {
+    "caseId": "SCI-2026-006",
+    "organization": "Starbucks Corporation",
+    "topic": "EPCI Committee elimination vs Back to Starbucks governance commitments",
+    "patterns": ["1.1", "1.4"],
+    "dateIdentified": "2026-03-13",
+    "status": "Confirmed",
+    "severity": 10
   }
 ]
